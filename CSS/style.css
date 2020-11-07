@@ -1,0 +1,178 @@
+body{
+	font-family: Roboto, "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", "メイリオ", sans-serif;
+	line-height: 1.75;
+	font-size: 16px;
+	width: 960px;
+}
+
+
+* {
+	padding:0;
+	margin:0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+
+.title_box{
+    	height: 200px;
+    	background: url(../img/mainbg.png);
+    	background-size: cover;
+		background-position: center;
+		
+	}
+
+.title{
+	font-size: 32px;
+	line-height: 2;
+	color: whitesmoke;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	
+	
+}
+
+.subtitle{
+    font-size: 24px;
+	color:  whitesmoke;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.subtitle_box{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.subtitle1{
+	font-size: 24px;
+	color: #ffd61a;
+}
+
+.content1{
+	width: 100%;
+
+}
+
+.subtitle_box2{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.subtitle2{
+	font-size: 24px;
+	color: #222222;
+}
+
+.content_box2_image2{
+	display: flex;
+}
+
+.content_box2_text{
+	width: 50%;
+    background: #fafafa;
+	color: #222222;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.content_box2_image2_file{
+    width: 50%;
+	height: 50%;
+    object-fit: cover;
+}
+
+.content_box3_image3{
+	display: flex;
+}
+
+.content_box3_text{
+	width: 50%;
+    background: #fafafa;
+	color: #222222;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.content_box3_image3_file{
+    width: 50%;
+	height: 50%;
+    object-fit: cover;
+}
+
+.content_box4_image4{
+	display: flex;
+}
+
+.content_box4_text{
+	width: 50%;
+    background: #fafafa;
+	color: #222222;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.content_box4_image4_file{
+    width: 50%;
+	height: 50%;
+    object-fit: cover;
+}
+
+.subtitle_box3{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.subtitle3{
+	font-size: 24px;
+	color: #ffd61a;
+}
+
+.subtitle_box4{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.subtitle4{
+	font-size: 24px;
+	color: black;
+}
+
+.subtitle_box5{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.subtitle5{
+	font-size: 24px;
+	color: black;
+}
+
+.content_box5{
+	width: 100%;
+    background: gray;
+	color: #222222;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
